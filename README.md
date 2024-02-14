@@ -11,11 +11,11 @@
 
 <p>Programming stack</p>
 
-[![My Skills](https://skillicons.dev/icons?i=jcs,s,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,html,css)](https://skillicons.dev)
 
 <p>Frameworks</p>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,blazor)](https://skillicons.dev)
 
 <p>Cloud</p>
 
