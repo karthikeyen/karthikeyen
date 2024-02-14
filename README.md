@@ -15,7 +15,7 @@
 
 <p>Frameworks</p>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,blazor)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,dotnet)](https://skillicons.dev)
 
 <p>Cloud</p>
 
