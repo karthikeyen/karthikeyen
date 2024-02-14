@@ -13,6 +13,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
 
+<p>Frameworks</p>
+
+[![My Skills](https://skillicons.dev/icons?i=angular,react)](https://skillicons.dev)
+
 <p>Cloud</p>
 
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
