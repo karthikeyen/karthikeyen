@@ -21,3 +21,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 
+<p>Motion Graphics</p>
+
+[![My Skills](https://skillicons.dev/icons?i=premiere)](https://skillicons.dev)
+
