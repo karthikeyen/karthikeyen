@@ -7,3 +7,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love listeing to music, as i found it can improve my dopamine levels.
 
+### Teck Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
