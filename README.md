@@ -23,5 +23,5 @@
 
 <p>Motion Graphics</p>
 
-[![My Skills](https://skillicons.dev/icons?i=premiere)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=premiere,ae)](https://skillicons.dev)
 
